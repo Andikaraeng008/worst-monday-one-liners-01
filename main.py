@@ -6,7 +6,7 @@ day, while the agent explaining it got nowhere.
 """
 import os
 
-LINE = "My Monday deploy froze at 99%, so I spent the whole stand-up explaining it \u2014 and the progress bar was the only thing that moved all day."
+LINE = "I opened Monday to 214 unread emails; by noon I'd answered three, and the inbox sent me a condolence card."
 
 def main():
     out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
