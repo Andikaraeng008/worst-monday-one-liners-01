@@ -6,7 +6,7 @@ day, while the agent explaining it got nowhere.
 """
 import os
 
-LINE = "I opened Monday to 214 unread emails; by noon I'd answered three, and the inbox sent me a condolence card."
+LINE = "My alarm clock snoozed itself on Monday, filed for overtime, and billed me for the extra sleep."
 
 def main():
     out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
